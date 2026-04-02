@@ -3,8 +3,8 @@ Contributors: rubel_miah
 Donate link: https://shapedplugin.com
 Tags: latest posts, widget, latest posts widget, posts widget, category posts, latest category posts, post thumbnails
 Requires at least: 4.0
-Tested up to: 6.4.2
-Stable tag: 1.4.4
+Tested up to: 6.9.4
+Stable tag: 1.4.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,6 +39,9 @@ Latest posts widget to display recent posts from category.
 
 
 == Changelog ==
+
+= 1.4.5 Apr 02, 2026 =
+* Tested: WordPress 6.9.4 compatibility.
 
 = 1.4.4 Jan 25, 2024 =
 * Tested: WordPress 6.4.2 compatibility.

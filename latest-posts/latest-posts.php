@@ -5,7 +5,7 @@
  * Description: Latest Posts widget to display recent posts.
  * Author: ShapedPlugin LLC
  * Author URI: https://shapedplugin.com
- * Version: 1.4.4
+ * Version: 1.4.5
  * License: GPL2
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  *
@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /* Define */
 define( 'SP_LATEST_POSTS_URL', plugins_url( '/' ) . plugin_basename( __DIR__ ) . '/' );
 define( 'SP_LATEST_POSTS_PATH', plugin_dir_path( __FILE__ ) );
-define( 'SP_LATEST_POSTS_VERSION', '1.4.4' );
+define( 'SP_LATEST_POSTS_VERSION', '1.4.5' );
 
 // Thumb size.
 function st_thumb_setup() {
