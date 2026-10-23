@@ -1,7 +1,7 @@
 === Latest Posts ===
 Contributors: rubel_miah
 Donate link: https://shapedplugin.com
-Tags: latest posts, widget, latest posts widget, posts widget, category posts, latest category posts, post thumbnails
+Tags: latest posts, posts widget, category posts, latest category posts, post thumbnails
 Requires at least: 4.0
 Tested up to: 6.9.4
 Stable tag: 1.4.5
